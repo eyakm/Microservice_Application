@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="ws.rest.AppTest" time="0.019" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="17"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="D:\Dev\Micro_services\workspace\client-rest-java\target\test-classes;D:\Dev\Micro_services\workspace\client-rest-java\target\classes;C:\Users\ASUS\.m2\repository\junit\junit\3.8.1\junit-3.8.1.jar;C:\Users\ASUS\.m2\repository\javax\servlet\javax.servlet-api\3.1.0\javax.servlet-api-3.1.0.jar;C:\Users\ASUS\.m2\repository\asm\asm\3.3.1\asm-3.3.1.jar;C:\Users\ASUS\.m2\repository\com\sun\jersey\jersey-bundle\1.19.2\jersey-bundle-1.19.2.jar;C:\Users\ASUS\.m2\repository\javax\ws\rs\jsr311-api\1.1.1\jsr311-api-1.1.1.jar;C:\Users\ASUS\.m2\repository\org\json\json\20160810\json-20160810.jar;C:\Users\ASUS\.m2\repository\com\sun\jersey\jersey-server\1.19.2\jersey-server-1.19.2.jar;C:\Users\ASUS\.m2\repository\com\sun\jersey\jersey-core\1.19.2\jersey-core-1.19.2.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="user.timezone" value="Europe/Paris"/>
+    <property name="user.country.format" value="US"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="java.vm.specification.version" value="17"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="FR"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-17\bin"/>
+    <property name="sun.java.command" value="C:\Users\ASUS\AppData\Local\Temp\surefire11622850704099873394\surefirebooter-20240228145558461_3.jar C:\Users\ASUS\AppData\Local\Temp\surefire11622850704099873394 2024-02-28T14-55-57_096-jvmRun1 surefire-20240228145558461_1tmp surefire_0-20240228145558461_2tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="D:\Dev\Micro_services\workspace\client-rest-java\target\test-classes;D:\Dev\Micro_services\workspace\client-rest-java\target\classes;C:\Users\ASUS\.m2\repository\junit\junit\3.8.1\junit-3.8.1.jar;C:\Users\ASUS\.m2\repository\javax\servlet\javax.servlet-api\3.1.0\javax.servlet-api-3.1.0.jar;C:\Users\ASUS\.m2\repository\asm\asm\3.3.1\asm-3.3.1.jar;C:\Users\ASUS\.m2\repository\com\sun\jersey\jersey-bundle\1.19.2\jersey-bundle-1.19.2.jar;C:\Users\ASUS\.m2\repository\javax\ws\rs\jsr311-api\1.1.1\jsr311-api-1.1.1.jar;C:\Users\ASUS\.m2\repository\org\json\json\20160810\json-20160810.jar;C:\Users\ASUS\.m2\repository\com\sun\jersey\jersey-server\1.19.2\jersey-server-1.19.2.jar;C:\Users\ASUS\.m2\repository\com\sun\jersey\jersey-core\1.19.2\jersey-core-1.19.2.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\ASUS"/>
+    <property name="user.language" value="fr"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2021-09-14"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-17"/>
+    <property name="file.separator" value="\"/>
+    <property name="style.color" value="always"/>
+    <property name="basedir" value="D:\Dev\Micro_services\workspace\client-rest-java"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="surefire.real.class.path" value="C:\Users\ASUS\AppData\Local\Temp\surefire11622850704099873394\surefirebooter-20240228145558461_3.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="17+35-LTS-2724"/>
+    <property name="user.name" value="ASUS"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Users\ASUS\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\ASUS\AppData\Local\Temp\"/>
+    <property name="java.version" value="17"/>
+    <property name="user.dir" value="D:\Dev\Micro_services\workspace\client-rest-java"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.language.format" value="en"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="native.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-17\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;D:/ECLIPSE JEE/eclipse//plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.2.v20220201-1208/jre/bin/server;D:/ECLIPSE JEE/eclipse//plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.2.v20220201-1208/jre/bin;C:\Program Files\Java\jdk-17\bin;D:\Dev\outils\maven\apache-maven-3.9.6-bin\apache-maven-3.9.6\bin;C:\Program Files (x86)\VMware\VMware Workstation\bin\;C:\Program Files\Python311\Scripts\;C:\Program Files\Python311\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\chocolatey\bin;C:\Program Files\nodejs\;C:\Program Files\dotnet\;D:\flutter\bin;«C:\Program Files\Java\jdk-17\bin;D:\Dev\outils\maven\apache-maven-3.9.6-bin\apache-maven-3.9.6\bin;D:\flutter\bin;C:\Program Files\Python311\;C:\Program Files\Java\jdk-17;C:\Users\ASUS\AppData\Local\Microsoft\WindowsApps;C:\Users\ASUS\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\ASUS\AppData\Roaming\Python\Python311\Scripts;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.3\bin;;C:\Users\ASUS\AppData\Roaming\npm;D:\flutter\bin;;D:\ECLIPSE JEE\eclipse;;."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="17+35-LTS-2724"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="61.0"/>
+  </properties>
+  <testcase name="testApp" classname="ws.rest.AppTest" time="0.002"/>
+</testsuite>

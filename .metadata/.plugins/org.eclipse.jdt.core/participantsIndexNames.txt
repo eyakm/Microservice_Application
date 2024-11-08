@@ -1,0 +1,7 @@
+INDEX VERSION 1.134
+D:\Dev\Micro_services\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2759747452.index
+\webProjet-versionTest\src\main\java
+D:\Dev\Micro_services\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1785053446.index
+\webProjet\src\main\java
+D:\Dev\Micro_services\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3513892418.index
+\webProjet-versionTest\src\main\java

@@ -1,0 +1,20 @@
+INDEX VERSION 1.134+D:\Dev\Micro_services\workspace\micro_services\Correction -Atelier_MS_03_Partie05-20240510\.metadata\.plugins\org.eclipse.jdt.core
+4149594943.index
+2988832603.index
+736999057.index
+2824813597.index
+1418399403.index
+1799029870.index
+702013914.index
+4287022881.index
+3056785298.index
+172056241.index
+3637661101.index
+1648709064.index
+2247858157.index
+2958426111.index
+3140238825.index
+3493157286.index
+856919529.index
+1107717947.index
+1865797976.index
